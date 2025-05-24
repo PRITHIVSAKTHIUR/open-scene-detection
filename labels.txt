@@ -1,0 +1,9 @@
+# Updated label mapping
+id2label = {
+    "0": "Buildings",
+    "1": "Forest",
+    "2": "Glacier",
+    "3": "Mountain",
+    "4": "Sea",
+    "5": "Street"
+}
